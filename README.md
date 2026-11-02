@@ -275,7 +275,7 @@ sql-banking-system/
 ├── sql/
 │   └── BankingSystem.sql        # schema + data + KPI queries
 └── presentation/
-    └── BankingSystem_EN.pdf     # project presentation (English)
+    └── BankingSystem.pdf     # project presentation
 ```
 
 ---
