@@ -9,7 +9,7 @@ A complete banking database built in **Microsoft SQL Server (T-SQL)**: a 30-tabl
 ![Rows](https://img.shields.io/badge/rows-~10.5K-97BC62)
 ![Queries](https://img.shields.io/badge/KPI%20queries-6-B85042)
 
-📄 **Presentation:** [BankingSystem.pdf](presentation/BankingSystem.pdf)
+📄 **Presentation:** [BankingSystem.pdf](sql-banking-system/BankingSystem.pdf)
 
 ---
 
