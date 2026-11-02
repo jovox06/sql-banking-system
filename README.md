@@ -9,7 +9,7 @@ A complete banking database built in **Microsoft SQL Server (T-SQL)**: a 30-tabl
 ![Rows](https://img.shields.io/badge/rows-~10.5K-97BC62)
 ![Queries](https://img.shields.io/badge/KPI%20queries-6-B85042)
 
-📄 **Presentation:** [BankingSystem_EN.pdf](presentation/BankingSystem_EN.pdf)
+📄 **Presentation:** [BankingSystem.pdf](presentation/BankingSystem.pdf)
 
 ---
 
@@ -306,6 +306,6 @@ sql-banking-system/
 
 **Javohir Yunusov**
 
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [Telegram](https://t.me/your-username) · [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/javohir-yunusov-705424295) · [Telegram](https://t.me/yunusovv66)
 
 > Educational portfolio project. All data is synthetic.
