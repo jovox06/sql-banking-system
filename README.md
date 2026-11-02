@@ -9,7 +9,7 @@ A complete banking database built in **Microsoft SQL Server (T-SQL)**: a 30-tabl
 ![Rows](https://img.shields.io/badge/rows-~10.5K-97BC62)
 ![Queries](https://img.shields.io/badge/KPI%20queries-6-B85042)
 
-📄 **Presentation:** [BankingSystem.pdf](sql-banking-system/BankingSystem.pdf)
+📄 **Presentation:** [BankingSystem.pdf](BankingSystem.pdf)
 
 ---
 
@@ -247,7 +247,7 @@ The `KPI` section at the end of `BankingSystem.sql` contains six analytical quer
    git clone https://github.com/<your-username>/sql-banking-system.git
    cd sql-banking-system
    ```
-2. Open `sql/BankingSystem.sql` in SSMS.
+2. Open `BankingSystem.sql` in SSMS.
 3. Execute the whole script on a fresh server. It will:
    - create the `BankSystem` database,
    - create all 30 tables,
@@ -270,12 +270,10 @@ DROP DATABASE BankSystem;
 ## Project Structure
 
 ```
-sql-banking-system/
-├── README.md
-├── sql/
-│   └── BankingSystem.sql        # schema + data + KPI queries
-└── presentation/
-    └── BankingSystem.pdf     # project presentation
+   sql-banking-system/
+   ├── README.md
+   ├── BankingSystem.sql        # schema + data + KPI queries
+   └── BankingSystem.pdf        # project presentation
 ```
 
 ---
